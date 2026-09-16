@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/lianeheidemann/tennis-fun-game/actions/workflows/ci.yml">
-    <img src="https://github.com/lianeheidemann/tennis-fun-game/actions/workflows/ci.yml/badge.svg" alt="Continuous Integration status">
-  </a>
+    <img src="https://github.com/lianeheidemann/tennis-fun-game/actions/workflows/ci.yml/badge.svg" alt="Continuous Integration status"></a>
   <a href="https://github.com/lianeheidemann/tennis-fun-game/actions/workflows/release.yml">
     <img src="https://github.com/lianeheidemann/tennis-fun-game/actions/workflows/release.yml/badge.svg" alt="Release Build status">
   </a>
