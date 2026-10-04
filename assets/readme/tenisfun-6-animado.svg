@@ -14,7 +14,6 @@
     </linearGradient>
     <mask id="logoMask" maskUnits="userSpaceOnUse" x="0" y="0" width="780" height="780" style="mask-type:alpha"><use href="#iconImage" xlink:href="#iconImage"/></mask>
   </defs>
-  <use href="#iconImage" xlink:href="#iconImage" opacity=".28" filter="url(#softGlow)"/>
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0;0 -3;0 0" keyTimes="0;.24;.5;.75;1" begin="1.35s" dur="3.1s" repeatCount="indefinite"/>
     <g transform="translate(390 390)">
