@@ -18,7 +18,7 @@
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0;0 -3;0 0" keyTimes="0;.24;.5;.75;1" begin="1.35s" dur="3.1s" repeatCount="indefinite"/>
     <g transform="translate(390 390)">
       <g>
-      <animateTransform attributeName="transform" type="scale" values=".58;.58;1.12;.95;1" keyTimes="0;.18;.52;.77;1" dur="1.35s" calcMode="spline" keySplines=".2 0 .25 1;.15 .7 .3 1;.25 0 .35 1;.2 0 .25 1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" values=".58;.58;.96;.98;1" keyTimes="0;.18;.52;.77;1" dur="1.35s" calcMode="spline" keySplines=".2 0 .25 1;.15 .7 .3 1;.25 0 .35 1;.2 0 .25 1" fill="freeze"/>
       <g transform="translate(-390 -390)">
         <use href="#iconImage" xlink:href="#iconImage"/>
         <g mask="url(#logoMask)" opacity=".68"><rect x="-420" y="-100" width="380" height="980" fill="url(#shine)" transform="rotate(-24 390 390)">
